@@ -1,0 +1,2 @@
+# Exclude generated PDF reports (run the script to regenerate)
+*.pdf
