@@ -1,0 +1,15 @@
+# Generated PDF reports (run the script to produce locally)
+reports/**/*.pdf
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+.env
+.venv/
+venv/
