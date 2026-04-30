@@ -1,0 +1,18 @@
+# Generated PDF reports (build artifacts – run the script locally to produce them)
+reports/**/*.pdf
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Editor / OS artefacts
+.DS_Store
+Thumbs.db
+*.swp
